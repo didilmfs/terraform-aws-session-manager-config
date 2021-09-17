@@ -100,8 +100,8 @@ No modules.
 
 ## Contributing
 
-This module accepting or open for any contributions from anyone, please see the [CONTRIBUTING.md](https://github.com/didilmfs/terraform-aws-session-manager-config/blob/master/CONTRIBUTING.md) for more detail about how to contribute to this module.
+This module accepting or open for any contributions from anyone, please see the [CONTRIBUTING.md](https://github.com/traveloka/terraform-aws-session-manager-config/blob/master/CONTRIBUTING.md) for more detail about how to contribute to this module.
 
 ## License
 
-This module is under Apache License 2.0 - see the [LICENSE](https://github.com/didilmfs/terraform-aws-session-manager-config/blob/master/LICENSE.md) file for details.
+This module is under Apache License 2.0 - see the [LICENSE](https://github.com/traveloka/terraform-aws-session-manager-config/blob/master/LICENSE.md) file for details.
